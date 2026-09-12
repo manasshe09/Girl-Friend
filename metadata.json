@@ -1,0 +1,6 @@
+{
+  "name": "DuoChat",
+  "description": "Private, end-to-end encrypted personal chatting app for couples with Telegram-like features, secret PIN lock, voice notes, media sharing, edit/delete, and self-destruct timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
